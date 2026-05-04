@@ -53,7 +53,7 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 | **Pie Chart** | Data Professionals by Industry distribution (%) |
 | **Gauge Charts** | Work-Life Balance Satisfaction (5.86/10) & Salary Satisfaction Score (4.27/10) |
 | **Gender Slicer** | Interactive filter applied across **all visuals** to compare metrics across Male/Female respondents |
-| **Education Level Slicer** | Interactive filter applied across **all visuals** to explore how education level influences salary, satisfaction & career trends |
+| **Education Level Filter** | Available via the **Filters pane** to explore how academic background (High School, Bachelors, Masters, PhD) influences salary and satisfaction |
 
 ---
 
@@ -66,7 +66,7 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 - 🌍 The **United States** leads with 261 respondents, followed by Other regions (224), India (73), United Kingdom (40), and Canada (32)
 - 🏭 **Other industries (32.54%)** and **Tech (23.81%)** dominate the respondent pool, followed by Finance (15.4%)
 - 👥 The **Gender Slicer** enables comparison of salary and satisfaction trends between male and female professionals
-- 🎓 The **Education Level Slicer** enables exploration of how academic background (High School, Bachelors, Masters, PhD) influences salary and satisfaction across the data field
+- 🎓 **Education Level** filtering via the Filters pane enables exploration of how academic background (High School, Bachelors, Masters, PhD) influences salary and satisfaction across the data field
 
 ---
 
@@ -93,7 +93,7 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 
 ## 📸 Dashboard Preview
 
-> The dashboard includes two interactive slicers — **Gender** and **Education Level** — both applied across **all visuals simultaneously**, enabling dynamic demographic and academic comparison throughout the entire dashboard.
+> The dashboard includes an interactive **Gender slicer** applied across **all visuals simultaneously**. Additionally, **Education Level** filtering is available via the **Filters pane**, enabling deeper exploration of how academic background influences career trends.
 
 ![Data Careers Trends and Insights Dashboard](Dashboard_Img.png)
 
@@ -101,8 +101,8 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 
 ## 👤 Author
 
-**[MH. Ahmed Haseen]**
-Aspiring Data Analyst | Power BI Enthusiast
+**MH. Ahmed Haseen**
+Data Analyst | Data Science Enthusiast
 
 
 
@@ -112,7 +112,7 @@ Aspiring Data Analyst | Power BI Enthusiast
 
 1. Download or clone this repository
 2. Open the `.pbix` file using **Power BI Desktop**
-3. Explore the dashboard using the **Gender** and **Education Level** slicers to filter all visuals
+3. Use the **Gender slicer** on the dashboard to filter all visuals, and the **Filters pane** to filter by Education Level
 4. Hover over charts for detailed tooltips and data points
 
 ---
