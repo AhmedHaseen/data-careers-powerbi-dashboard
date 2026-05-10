@@ -7,7 +7,7 @@
 
 ## 🔍 Project Overview
 
-This project leverages a real-world survey dataset of **630+ data professionals** to uncover insights regarding salary trends, job satisfaction, and industry demographics within the data analytics field. Raw survey responses were transformed into a fully interactive Power BI dashboard to help identify key patterns across the data profession.
+This project leverages a real-world survey dataset of **630+ data professionals** to uncover insights regarding salary trends, job satisfaction, and industry demographics within the data industry. Raw survey responses were transformed into a fully interactive Power BI dashboard to help identify key patterns across the data profession.
 
 ---
 
