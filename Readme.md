@@ -1,4 +1,5 @@
 # 📊 Data Careers: Trends & Insights
+
 ### An Interactive Power BI Dashboard Built on Real-World Survey Data
 
 ![Dashboard Preview](Dashboard_Img.png)
@@ -8,6 +9,24 @@
 ## 🔍 Project Overview
 
 This project leverages a real-world survey dataset of **630+ data professionals** to uncover insights regarding salary trends, job satisfaction, and industry demographics within the data industry. Raw survey responses were transformed into a fully interactive Power BI dashboard to help identify key patterns across the data profession.
+
+---
+
+---
+
+## 📄 Project Deliverables
+
+🔗 **Project Report**  
+Detailed documentation covering project objectives, data transformation workflow, dashboard development process, and analytical findings.  
+[View Project Report](https://drive.google.com/file/d/1aHv-ZqBOrs7AP8WplNVhJ-gARnvbHRcg/view?usp=drive_link)
+
+🎤 **Presentation Deck**  
+Professional presentation summarizing dashboard insights, business findings, and key analytics outcomes.  
+[View Presentation Deck](https://canva.link/ofhooe95zrwhg0c)
+
+🎥 **Dashboard Demonstration**  
+Short walkthrough showcasing dashboard interactivity, visualizations, filtering capabilities, and key insights.  
+[Watch Dashboard Demo](https://canva.link/7va6fzlmowfbwk0)
 
 ---
 
@@ -23,37 +42,37 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 
 ## 📁 Dataset Description
 
-| Attribute | Details |
-|---|---|
-| **Source** | Real-world survey collected via LinkedIn & Twitter |
-| **Records** | 630+ data professionals |
-| **Demographics** | Age, Gender, Country |
-| **Professional Info** | Job Title, Industry, Salary Range, Programming Language |
-| **Psychographic Data** | Job satisfaction ratings (0–10 scale) |
+| Attribute              | Details                                                 |
+| ---------------------- | ------------------------------------------------------- |
+| **Source**             | Real-world survey collected via LinkedIn & Twitter      |
+| **Records**            | 630+ data professionals                                 |
+| **Demographics**       | Age, Gender, Country                                    |
+| **Professional Info**  | Job Title, Industry, Salary Range, Programming Language |
+| **Psychographic Data** | Job satisfaction ratings (0–10 scale)                   |
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|---|---|
-| **Power BI Desktop** | Core platform for visualization & dashboard creation |
+| Tool                   | Purpose                                                    |
+| ---------------------- | ---------------------------------------------------------- |
+| **Power BI Desktop**   | Core platform for visualization & dashboard creation       |
 | **Power Query Editor** | Data cleaning, transformation & average salary calculation |
-| **Microsoft Excel** | Initial data exploration & CSV handling |
+| **Microsoft Excel**    | Initial data exploration & CSV handling                    |
 
 ---
 
 ## 📊 Dashboard Features & Visuals
 
-| Visual | Description |
-|---|---|
-| **KPI Cards** | Total survey count (630) and average respondent age (29.87) |
-| **Clustered Bar Chart** | Average Salary by Job Title — compares earnings across roles |
-| **Clustered Column Chart** | Favourite Programming Languages by job title |
-| **Tree Map** | Number of Data Professionals by Country |
-| **Pie Chart** | Data Professionals by Industry distribution (%) |
-| **Gauge Charts** | Work-Life Balance Satisfaction (5.86/10) & Salary Satisfaction Score (4.27/10) |
-| **Gender Slicer** | Interactive filter applied across **all visuals** to compare metrics across Male/Female respondents |
+| Visual                     | Description                                                                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **KPI Cards**              | Total survey count (630) and average respondent age (29.87)                                                                                     |
+| **Clustered Bar Chart**    | Average Salary by Job Title — compares earnings across roles                                                                                    |
+| **Clustered Column Chart** | Favourite Programming Languages by job title                                                                                                    |
+| **Tree Map**               | Number of Data Professionals by Country                                                                                                         |
+| **Pie Chart**              | Data Professionals by Industry distribution (%)                                                                                                 |
+| **Gauge Charts**           | Work-Life Balance Satisfaction (5.86/10) & Salary Satisfaction Score (4.27/10)                                                                  |
+| **Gender Slicer**          | Interactive filter applied across **all visuals** to compare metrics across Male/Female respondents                                             |
 | **Education Level Filter** | Available via the **Filters pane** to explore how academic background (High School, Bachelors, Masters, PhD) influences salary and satisfaction |
 
 ---
@@ -68,6 +87,8 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 - 🏭 **Other industries (32.54%)** and **Tech (23.81%)** dominate the respondent pool, followed by Finance (15.4%)
 - 👥 The **Gender Slicer** enables comparison of salary and satisfaction trends between male and female professionals
 - 🎓 **Education Level** filtering via the Filters pane enables exploration of how academic background (High School, Bachelors, Masters, PhD) influences salary and satisfaction across the data field
+
+> 🎨 These findings are presented in a client-ready format in the **[Presentation Deck](https://canva.link/ofhooe95zrwhg0c)** — including strategic recommendations for decision-makers.
 
 ---
 
@@ -98,14 +119,14 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 
 ![Data Careers Trends and Insights Dashboard](Dashboard_Img.png)
 
+> 🎥 Want to see the dashboard in action? Watch the **[Demo Video](https://canva.link/7va6fzlmowfbwk0)** for a full walkthrough of all visuals, filters, and interactive features.
+
 ---
 
 ## 👤 Author
 
 **MH. Ahmed Haseen**
 | Data Analyst | Data Science Enthusiast
-
-
 
 ---
 
@@ -118,4 +139,4 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 
 ---
 
-*⭐ If you found this project useful or insightful, feel free to star this repository!*
+_⭐ If you found this project useful or insightful, feel free to star this repository!_
