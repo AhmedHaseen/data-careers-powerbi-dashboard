@@ -17,6 +17,7 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 - Identify the most **popular programming languages** among data professionals
 - Understand **job satisfaction** across salary and work-life balance dimensions
 - Explore **geographic and industry distribution** of data professionals
+- Create **an interactive analytics dashboard** for exploration
 
 ---
 
@@ -102,7 +103,7 @@ This project leverages a real-world survey dataset of **630+ data professionals*
 ## 👤 Author
 
 **MH. Ahmed Haseen**
-Data Analyst | Data Science Enthusiast
+| Data Analyst | Data Science Enthusiast
 
 
 
